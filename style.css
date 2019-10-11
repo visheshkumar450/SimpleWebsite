@@ -12,11 +12,21 @@ body{
     margin-right: auto;
     
 }
+#bla:hover{
+   background-color:peru;
+
+}
+#black:hover{
+height:80px;
+width:60px;
+}
 nav{
     background-color: coral;
     position: relative;
 }
-
+#image:hover{
+	height:60px;
+}
 nav>a{
     color: white;
     font-size: 2rem;
